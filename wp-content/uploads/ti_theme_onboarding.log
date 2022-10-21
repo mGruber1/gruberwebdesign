@@ -1,0 +1,15 @@
+[16/Oct/2022:09:11:35] (I): WordPress Instance Info:
+[16/Oct/2022:09:11:35] (I): Home URL : http://localhost
+[16/Oct/2022:09:11:35] (I): Site URL : http://localhost
+[16/Oct/2022:09:11:35] (I): WordPress Version : 6.0.2
+[16/Oct/2022:09:11:35] (I): Onboarding Version : 1.1.26
+[16/Oct/2022:09:11:35] (I): Multisite : No
+[16/Oct/2022:09:11:35] (I): Server Info : Apache/2.4.52 (Ubuntu)
+[16/Oct/2022:09:11:35] (I): PHP Version : 8.1.2
+[16/Oct/2022:09:11:35] (I): HTTPS : No
+[16/Oct/2022:09:11:35] (I): PHP Max Execution Time : 30
+[16/Oct/2022:09:11:35] (I): PHP Max Input Vars : 1000
+[16/Oct/2022:09:11:35] (I): Max Upload Size : 2097152
+[16/Oct/2022:09:11:35] (I): Plugins:
+[16/Oct/2022:09:11:35] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.0.16 (ThemeIsle)
+[16/Oct/2022:09:11:35] (I): [PLUGIN] Templates Patterns Collection : v1.1.26 (ThemeIsle)
