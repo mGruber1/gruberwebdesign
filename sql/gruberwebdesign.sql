@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Oct 21, 2022 at 11:31 AM
+-- Generation Time: Oct 21, 2022 at 11:38 AM
 -- Server version: 10.6.7-MariaDB-2ubuntu1.1
 -- PHP Version: 8.1.2
 
@@ -20,8 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `gruberwebdesign`
 --
-CREATE DATABASE IF NOT EXISTS `gruberwebdesign` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `gruberwebdesign`;
 
 -- --------------------------------------------------------
 
