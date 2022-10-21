@@ -1,0 +1,204 @@
+# Webalizer V2.23-08 Incremental Data - 12/07/2020 15:20:56
+2020 12 7 15 20 56
+28 9 16 1 6 8 173629 16 10 0
+4 2 10 1 7
+2 1 16410 1 2 1
+2 1 19797 1 1 1
+17 3 71997 10 6 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 4 65425 4 7 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 19797 1
+0 0 0 0
+0 0 0 0
+5 1 23839 2
+5 3 49015 5
+8 1 27888 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 16410 2
+2 1 16410 2
+0 0 0 0
+2 1 16410 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 3860 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 9 0 145755 9 0
+# End Of Table - urls
+# -sites- (monthly)
+192.71.30.89
+0 2 1 16417 1 1606991578
+/
+3.82.153.201
+0 2 1 16410 1 1607333145
+/
+80.123.128.122
+0 2 1 16410 1 1607333037
+/
+192.71.3.26
+0 1 0 225 0 0
+-
+192.71.23.211
+0 1 0 3602 0 0
+-
+192.71.126.175
+0 1 0 225 0 0
+-
+54.80.44.2
+0 1 1 16195 1 1607333182
+/
+52.125.140.0
+0 2 0 3860 0 0
+-
+89.249.188.194
+0 2 1 16410 1 1607005521
+/
+192.71.103.173
+0 1 0 3602 0 0
+-
+87.179.126.113
+0 2 1 16410 1 1607354456
+/
+94.177.226.179
+0 2 1 16410 1 1606844559
+/
+83.136.32.140
+0 5 1 23839 1 1606984090
+/
+64.246.161.30
+0 2 1 19797 1 1606887181
+/
+192.36.70.176
+0 1 0 215 1 1606991578
+/
+192.36.71.133
+0 1 0 3602 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+3.82.153.201
+0 2 1 16410 1 1607333145
+/
+80.123.128.122
+0 2 1 16410 1 1607333037
+/
+54.80.44.2
+0 1 1 16195 1 1607333182
+/
+87.179.126.113
+0 2 1 16410 1 1607354456
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://gruber-webdesign.at/.well-known/autoconfig/mail/config-v1.1.xml
+0 1
+http://gruber-webdesign.at/ads.txt
+0 1
+- (Direct Request)
+0 23
+http://gruber-webdesign.at/
+0 1
+http://gruber-webdesign.at/humans.txt
+0 1
+http://gruber-webdesign.at/robots.txt
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:83.0) Gecko/20100101 Firefox/83.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+0 2
+Go-http-client/1.1
+0 8
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; at-bot/1.0; +https://crawler.labs.nic.at)
+0 5
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.27 (KHTML, like Gecko) Chrome/26.0.1384.2 Safari/537.27
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
